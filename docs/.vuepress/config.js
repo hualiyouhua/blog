@@ -1,6 +1,7 @@
 module.exports = {
   title: '画里有画的博客',
   description: '技术栈：Vuepress',
+  base: '/blog/',
   theme: 'reco',
   themeConfig: {
     nav: [
